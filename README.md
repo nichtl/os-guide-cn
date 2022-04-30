@@ -13,3 +13,10 @@
 
 
 
+## 有用的教程
+
+[The little book about OS development](https://littleosbook.github.io/)
+
+[Roll your own toy UNIX-clone OS](https://web.archive.org/web/20160412174753/http://www.jamesmolloy.co.uk/tutorial_html/index.html)
+
+
