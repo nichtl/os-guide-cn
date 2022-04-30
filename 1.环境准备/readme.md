@@ -6,7 +6,7 @@
 brew install qemu nasm
 ```
 
-如果你的Mac上安装了Xcode，不要使用开发工具里面的`nasm`,请使用这个`nasm`：
+如果你的Mac上安装了Xcode，不要使用开发工具里面的`nasm`，请使用这个`nasm`：
 
 ```
 /usr/local/bin/nasm
