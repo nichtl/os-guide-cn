@@ -49,4 +49,8 @@ nasm -f bin 1.asm -o boot.bin
 qemu-system-x86_64 boot.bin
 ```
 
+<img width="1217" alt="image" src="https://user-images.githubusercontent.com/92664048/166098930-5ca3653d-385f-46b3-a61c-cbacbd6b499f.png">
 
+窗口打印`Booting from Hard Disk...`，然后就没有然后了。。。。
+
+你最后一次看到无限循环还非常的兴奋是什么时候？ ））
