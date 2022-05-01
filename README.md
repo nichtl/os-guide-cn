@@ -15,6 +15,8 @@
 
 [3、引导打印](https://github.com/yanull/os-guide-cn/blob/main/3.%E5%BC%95%E5%AF%BC%E6%89%93%E5%8D%B0/readme.md)
 
+[4、引导内存](https://github.com/yanull/os-guide-cn/blob/main/4.%E5%BC%95%E5%AF%BC%E5%86%85%E5%AD%98/readme.md)
+
 
 ## 有用的教程
 
