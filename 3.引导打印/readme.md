@@ -37,3 +37,4 @@ nasm -fbin 2.asm -o 2.bin
 qemu-system-x86_64 2.bin
 ```
 
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/92664048/166137109-ee0bb1af-9baf-4051-92d6-0e896d421fd1.png">
