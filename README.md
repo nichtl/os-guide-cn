@@ -1,6 +1,8 @@
 # 从零开始制作一个操作系统！
 
-这只是我个人的学习项目，欢迎fork这个仓库。原文在[这里](https://github.com/cfenollosa/os-tutorial)。
+这只是我个人的学习项目，欢迎fork这个仓库。
+
+原始仓库在[这里](https://github.com/cfenollosa/os-tutorial)。
 
 ## 特点
 
