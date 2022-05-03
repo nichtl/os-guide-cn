@@ -11,15 +11,15 @@
 
 [1、前期准备](https://github.com/yanull/os-guide-cn/tree/main/1.%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87)
 
-[2、引导扇区](https://github.com/yanull/os-guide-cn/blob/main/2.%E5%BC%95%E5%AF%BC%E6%89%87%E5%8C%BA/readme.md)
+[2、引导扇区](https://github.com/yanull/os-guide-cn/blob/main/2.%E5%BC%95%E5%AF%BC%E6%89%87%E5%8C%BA)
 
-[3、引导打印](https://github.com/yanull/os-guide-cn/blob/main/3.%E5%BC%95%E5%AF%BC%E6%89%93%E5%8D%B0/readme.md)
+[3、引导打印](https://github.com/yanull/os-guide-cn/blob/main/3.%E5%BC%95%E5%AF%BC%E6%89%93%E5%8D%B0)
 
-[4、引导内存](https://github.com/yanull/os-guide-cn/blob/main/4.%E5%BC%95%E5%AF%BC%E5%86%85%E5%AD%98/readme.md)
+[4、引导内存](https://github.com/yanull/os-guide-cn/blob/main/4.%E5%BC%95%E5%AF%BC%E5%86%85%E5%AD%98)
 
-[5、引导栈](https://github.com/yanull/os-guide-cn/blob/main/5.%E5%BC%95%E5%AF%BC%E6%A0%88/readme.md)
+[5、引导栈](https://github.com/yanull/os-guide-cn/blob/main/5.%E5%BC%95%E5%AF%BC%E6%A0%88)
 
-
+[6、函数和字符串](https://github.com/yanull/os-guide-cn/tree/main/6.%E5%87%BD%E6%95%B0%E5%92%8C%E5%AD%97%E7%AC%A6%E4%B8%B2)
 
 ## 有用的教程
 
