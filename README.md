@@ -23,6 +23,10 @@
 
 [6、函数和字符串](https://github.com/yanull/os-guide-cn/tree/main/6.%E5%87%BD%E6%95%B0%E5%92%8C%E5%AD%97%E7%AC%A6%E4%B8%B2)
 
+[7、引导段](https://github.com/yanull/os-guide-cn/tree/main/7.%E5%BC%95%E5%AF%BC%E6%AE%B5)
+
+
+
 ## 有用的教程
 
 [The little book about OS development](https://littleosbook.github.io/)
