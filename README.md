@@ -9,6 +9,11 @@
 * 理论很少，不需要很深的理论基础。是的，这是一个很大的特点 - Google 就是你最好的理论导师。
 * 教程很简短，你只需要花费少量时间就可以读完。
 
+
+## ⚠️注意
+
+请自行修改Makefile文件！
+
 ## 目录
 
 [1、前期准备](https://github.com/yanull/os-guide-cn/tree/main/1.%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87)
@@ -42,6 +47,10 @@
 [15、检查点](https://github.com/yanull/os-guide-cn/tree/main/15.%E6%A3%80%E6%9F%A5%E7%82%B9)
 
 [16、视频端口](https://github.com/yanull/os-guide-cn/tree/main/16.%E8%A7%86%E9%A2%91%E7%AB%AF%E5%8F%A3)
+
+[17、视频驱动程序](https://github.com/yanull/os-guide-cn/tree/main/17.%E8%A7%86%E9%A2%91%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F)
+
+
 
 
 
