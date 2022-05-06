@@ -33,6 +33,8 @@
 
 [11、32位输入](https://github.com/yanull/os-guide-cn/tree/main/11.32%E4%BD%8D%E8%BE%93%E5%85%A5)
 
+[12、内核交叉编译器](https://github.com/yanull/os-guide-cn/tree/main/12.%E5%86%85%E6%A0%B8%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91%E5%99%A8)
+
 
 
 ## 有用的教程
