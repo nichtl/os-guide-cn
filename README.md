@@ -35,7 +35,7 @@
 
 [12、内核交叉编译器](https://github.com/yanull/os-guide-cn/tree/main/12.%E5%86%85%E6%A0%B8%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91%E5%99%A8)
 
-
+[13、内核 - C](https://github.com/yanull/os-guide-cn/tree/main/13.%E5%86%85%E6%A0%B8-C)
 
 ## 有用的教程
 
