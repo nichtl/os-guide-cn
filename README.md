@@ -31,6 +31,10 @@
 
 [10、32位GDT](https://github.com/yanull/os-guide-cn/tree/main/10.32%E4%BD%8D-gdt)
 
+[11、32位输入](https://github.com/yanull/os-guide-cn/tree/main/11.32%E4%BD%8D%E8%BE%93%E5%85%A5)
+
+
+
 ## 有用的教程
 
 [The little book about OS development](https://littleosbook.github.io/)
