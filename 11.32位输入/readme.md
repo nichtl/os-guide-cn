@@ -88,3 +88,5 @@ qemu-system-x86_64 32bit.bin
 
 <img width="715" alt="图片" src="https://user-images.githubusercontent.com/92664048/167058257-9707171c-75bb-4f15-97e2-1b6496e4b299.png">
 
+
+恭喜！我们的下一步将是编写一个简单的内核。
