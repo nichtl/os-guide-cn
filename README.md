@@ -37,6 +37,10 @@
 
 [13、内核 - C](https://github.com/yanull/os-guide-cn/tree/main/13.%E5%86%85%E6%A0%B8-C)
 
+[14、内核准系统](https://github.com/yanull/os-guide-cn/tree/main/14.%E5%86%85%E6%A0%B8%E5%87%86%E7%B3%BB%E7%BB%9F)
+
+
+
 ## 有用的教程
 
 [The little book about OS development](https://littleosbook.github.io/)
