@@ -41,6 +41,10 @@
 
 [15、检查点](https://github.com/yanull/os-guide-cn/tree/main/15.%E6%A3%80%E6%9F%A5%E7%82%B9)
 
+[16、视频端口](https://github.com/yanull/os-guide-cn/tree/main/16.%E8%A7%86%E9%A2%91%E7%AB%AF%E5%8F%A3)
+
+
+
 ## 有用的教程
 
 [The little book about OS development](https://littleosbook.github.io/)
