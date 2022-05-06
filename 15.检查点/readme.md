@@ -6,7 +6,7 @@
 brew install gdb
 ```
 
-> 如果你使用M1，`gdb`不被支持，可用`lldb`代替。
+> 如果使用M1，`gdb`不被支持，可用`lldb`代替。
 
 ```
 brew install lmdb
