@@ -29,6 +29,7 @@
 
 [9、32位打印](https://github.com/yanull/os-guide-cn/tree/main/9.32%E4%BD%8D%E6%89%93%E5%8D%B0)
 
+[10、32位GDT](https://github.com/yanull/os-guide-cn/tree/main/10.32%E4%BD%8D-gdt)
 
 ## 有用的教程
 
