@@ -2,7 +2,7 @@
 
 这只是我个人的学习项目，欢迎fork这个仓库。
 
-原始仓库在[这里](https://github.com/cfenollosa/os-tutorial)。
+2022年更新，内容有所修改，原始仓库在[这里](https://github.com/cfenollosa/os-tutorial)。
 
 ## 特点
 
