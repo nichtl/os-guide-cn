@@ -59,3 +59,8 @@ cat bootsect.bin kernel.bin > os-image.bin
 qemu-system-i386 -fda os-image.bin
 ```
 
+<img width="706" alt="图片" src="https://user-images.githubusercontent.com/92664048/167066885-629eab0e-3b60-4268-a28b-8522e6c9181d.png">
+
+#### Makefile
+
+如果你不知道`Makefile`是什么，现在是个好时机去谷歌学习一下，因为这将在未来为我们节省很多时间。 
