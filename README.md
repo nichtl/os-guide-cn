@@ -39,7 +39,7 @@
 
 [14、内核准系统](https://github.com/yanull/os-guide-cn/tree/main/14.%E5%86%85%E6%A0%B8%E5%87%86%E7%B3%BB%E7%BB%9F)
 
-
+[15、检查点](https://github.com/yanull/os-guide-cn/tree/main/15.%E6%A3%80%E6%9F%A5%E7%82%B9)
 
 ## 有用的教程
 
