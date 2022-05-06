@@ -27,6 +27,8 @@
 
 [8、引导扇区磁盘](https://github.com/yanull/os-guide-cn/blob/main/8.%E5%BC%95%E5%AF%BC%E6%89%87%E5%8C%BA%E7%A3%81%E7%9B%98)
 
+[9、32位打印](https://github.com/yanull/os-guide-cn/tree/main/9.32%E4%BD%8D%E6%89%93%E5%8D%B0)
+
 
 ## 有用的教程
 
