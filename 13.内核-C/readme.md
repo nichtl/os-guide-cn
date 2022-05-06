@@ -12,7 +12,7 @@ int my_function() {
 要编译与系统无关的代码，我们需要`-ffreestanding` ， 所以编译`function.c`以这种方式：
 
 ```
-x86_64-elf-gcc -ffreestanding -c function.c -o function.o
+x86_64-elf-gcc -m32 -ffreestanding -c function.c -o function.o
 ```
 
 让我们检查下机器码：
