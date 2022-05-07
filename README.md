@@ -60,6 +60,8 @@
 
 [20、中断 - irqs](https://github.com/yanull/os-guide-cn/tree/main/20.%E4%B8%AD%E6%96%AD-irqs)
 
+[21、中断定时器](https://github.com/yanull/os-guide-cn/tree/main/21.%E4%B8%AD%E6%96%AD%E5%AE%9A%E6%97%B6%E5%99%A8)
+
 
 
 
