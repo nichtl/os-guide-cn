@@ -58,6 +58,8 @@
 
 [19、中断](https://github.com/yanull/os-guide-cn/tree/main/19.%E4%B8%AD%E6%96%AD)
 
+[20、中断 - irqs](https://github.com/yanull/os-guide-cn/tree/main/20.%E4%B8%AD%E6%96%AD-irqs)
+
 
 
 
