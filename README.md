@@ -62,7 +62,13 @@
 
 [21、中断定时器](https://github.com/yanull/os-guide-cn/tree/main/21.%E4%B8%AD%E6%96%AD%E5%AE%9A%E6%97%B6%E5%99%A8)
 
+[22、Shell](https://github.com/yanull/os-guide-cn/tree/main/22.shell)
 
+[23、malloc](https://github.com/yanull/os-guide-cn/tree/main/23.malloc)
+
+[24、Fixes](https://github.com/yanull/os-guide-cn/tree/main/24.fixes)
+
+[25、el-capitan](https://github.com/yanull/os-guide-cn/tree/main/25.el-capitan)
 
 
 ## 有用的教程
