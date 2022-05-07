@@ -54,6 +54,9 @@
 
 [17、视频驱动程序](https://github.com/yanull/os-guide-cn/tree/main/17.%E8%A7%86%E9%A2%91%E9%A9%B1%E5%8A%A8%E7%A8%8B%E5%BA%8F)
 
+[18、视频滚动](https://github.com/yanull/os-guide-cn/tree/main/18.%E8%A7%86%E9%A2%91%E6%BB%9A%E5%8A%A8)
+
+
 
 
 
