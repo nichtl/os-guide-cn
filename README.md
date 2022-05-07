@@ -56,7 +56,7 @@
 
 [18、视频滚动](https://github.com/yanull/os-guide-cn/tree/main/18.%E8%A7%86%E9%A2%91%E6%BB%9A%E5%8A%A8)
 
-
+[19、中断](https://github.com/yanull/os-guide-cn/tree/main/19.%E4%B8%AD%E6%96%AD)
 
 
 
